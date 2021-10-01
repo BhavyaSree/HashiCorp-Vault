@@ -15,4 +15,5 @@ In order to aviod the breaching, we need to have a system which can
 * Generate dynamic secrets (Database credentials, AWS Secrets and others)
 * Open source
 
+HashiCorp Vault allows organizantions to securely store secrets like tokens, passwords, certificates along with access management for protecting secrets.
 
